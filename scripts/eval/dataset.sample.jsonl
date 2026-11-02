@@ -1,0 +1,5 @@
+{"id":"q001","question":"空调制冷效果差怎么报修？","reference_doc_ids":["FAQ_VAC_001"],"intent_l2":"node_vac_repair","category":"single_intent"}
+{"id":"q002","question":"怎么开局发票？报销要准备哪些材料？","reference_doc_ids":["FIN_INVOICE_001","FIN_REIMBURSE_001"],"intent_l2":"node_fin_invoice","category":"multi_intent"}
+{"id":"q003","question":"数据安全规范是什么？","reference_doc_ids":["OA_SECURITY_001","INS_SECURITY_001"],"intent_l2":"node_oa_security","category":"ambiguous"}
+{"id":"q004","question":"公司年会是什么时候？","reference_doc_ids":[],"intent_l2":"","category":"no_answer"}
+{"id":"q005","question":"打印机墨盒怎么更换","reference_doc_ids":["IT_PRINTER_002"],"intent_l2":"node_it_support","category":"paraphrase"}

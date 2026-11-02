@@ -1,0 +1,10 @@
+{"id":"q01","question":"空调制冷效果差怎么办","reference_doc_ids":["FAQ_VAC_001"],"intent_l2":"","category":"single_intent"}
+{"id":"q02","question":"空调报修多久上门","reference_doc_ids":["FAQ_VAC_001"],"intent_l2":"","category":"single_intent"}
+{"id":"q03","question":"空调漏水了怎么办","reference_doc_ids":["FAQ_VAC_001"],"intent_l2":"","category":"paraphrase"}
+{"id":"q04","question":"打印机墨盒怎么更换","reference_doc_ids":["IT_PRINTER_002"],"intent_l2":"","category":"single_intent"}
+{"id":"q05","question":"打印机的硒鼓要怎么换","reference_doc_ids":["IT_PRINTER_002"],"intent_l2":"","category":"paraphrase"}
+{"id":"q06","question":"打印机前盖怎么打开换墨盒","reference_doc_ids":["IT_PRINTER_002"],"intent_l2":"","category":"single_intent"}
+{"id":"q07","question":"差旅报销需要哪些材料","reference_doc_ids":["FIN_REIMBURSE_001"],"intent_l2":"","category":"single_intent"}
+{"id":"q08","question":"报销审批通过后多久打款","reference_doc_ids":["FIN_REIMBURSE_001"],"intent_l2":"","category":"single_intent"}
+{"id":"q09","question":"电子发票怎么上传报销","reference_doc_ids":["FIN_REIMBURSE_001"],"intent_l2":"","category":"paraphrase"}
+{"id":"q10","question":"公司食堂几点开饭","reference_doc_ids":[],"intent_l2":"","category":"no_answer"}

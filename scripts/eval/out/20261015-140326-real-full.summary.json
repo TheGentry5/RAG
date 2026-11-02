@@ -1,0 +1,29 @@
+﻿{
+    "label":  "real-full",
+    "baseUrl":  "http://localhost:9090/api/ragent",
+    "dataset":  "D:\\Programming\\Project\\selfProject\\ragent\\scripts\\eval\\dataset-large.jsonl",
+    "generatedAt":  "2026-10-15 14:03:26",
+    "total":  100,
+    "ok":  100,
+    "error":  0,
+    "noReference":  10,
+    "metrics":  {
+                    "hit_at_1":  0.8889,
+                    "hit_at_3":  1,
+                    "hit_at_5":  1,
+                    "hit_at_10":  1,
+                    "mrr":  0.9444,
+                    "context_precision":  0.2715,
+                    "context_recall":  1,
+                    "intent_top1_accuracy":  0.9444,
+                    "retrieval_latency_avg_ms":  6107.43,
+                    "retrieval_latency_p50_ms":  4618,
+                    "retrieval_latency_p95_ms":  11531
+                },
+    "sampleSizes":  {
+                        "hit":  90,
+                        "context":  90,
+                        "intent":  90,
+                        "latency":  100
+                    }
+}
